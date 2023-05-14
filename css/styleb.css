@@ -213,5 +213,9 @@ align-items: center;
 
   }
 
+  .navbar {
+    z-index: 100;
+  }
+
 
 
