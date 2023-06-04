@@ -216,6 +216,38 @@ align-items: center;
   .navbar {
     z-index: 100;
   }
+#tablaPersonas{
+  border-spacing: 30px;
+  border-collapse: separate;
+}
+  .tdcomp{
+     border: 2px solid blue;
+     border-radius: 10px;
+     padding-top: 1rem;
+     padding:15px;
+    }
+
+    .tdcomp2{
+      border: 2px solid green;
+      border-radius: 10px;
+      padding-top: 1rem;
+      padding:15px;
+     }
+
+     .tdcomp3{
+      border: 2px solid orange;
+      border-radius: 10px;
+      padding-top: 1rem;
+      padding:15px;
+     }
+
+     .negritas {
+      font-weight: bold; 
+    }
+
+  
+
+ 
 
 
 
